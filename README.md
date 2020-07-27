@@ -43,4 +43,4 @@
 <H4>Good luck...</H4>
 <br>
 <H1>Screenshot of app</H1>
-<img src="CrackMeScreenshot.png">
+<img src="CrackMeScreenshot.png" style="width:500px;height:600px;">
