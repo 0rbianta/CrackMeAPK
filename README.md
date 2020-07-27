@@ -29,7 +29,7 @@
 <br>
   
 <H3><p style="color:#e3da34";>3. String's Founder:</p><H3>
-<H5><p style="color:#e3da34";>(String level:EASY to find)</p><H5>
+<H5>(String level:EASY to find)<H5>
 <H6>N/A</H6>
 
 <hr>
