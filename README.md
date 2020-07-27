@@ -38,5 +38,6 @@
 <H6>N/A</H6>
 
 <hr>
+<img src="pictureOfComplexCryption.png">
 <H5>Okay. It's not open source, I'm sorry, but I found it right to publish such an app on GitHub.</H5>
 <H4>Good luck...</H4>
