@@ -2,6 +2,11 @@
 <br>
 <H1>Hard CTF For Reverse Engineering APK File</H1>
 <H2>I challenge Reverse engineering. Come find the <b>three hidden strings</b> in my application and you'll be mentioned in the project according to the string or strings you found!</H2>
+<hr>
+<H2>How do you know you found something?</H2>
+<H4>The things that are hidden in it already clearly indicate that they are hidden, and the things that are hidden look like passwords. They consist of mixed characters.</H4>
+<H5>Example: Y!n3nx^x98NX374xd|93</H5>
+<hr>
 <br>
 
 <img src="picture.jpg">
