@@ -16,20 +16,20 @@
   <li><H3>SHA-1 Check</H3></li>
 </ol>
 <br>
-<H3><p style="color:#e3da34";>1. String's Founder:</p><H3>
-<H5><p style="color:#e3da34";>(String level:Almost impossible to find)</p><H5>
+<H3>1. String's Founder:<H3>
+<H5>(String level:Almost impossible to find)<H5>
 <H6>N/A</H6>
   
 <br>
 
-<H3><p style="color:#e3da34";>2. String's Founder:</p><H3>
-<H5><p style="color:#e3da34";>(String level:Hard to find)</p><H5>
+<H3>2. String's Founder:<H3>
+<H5>(String level:Hard to find)<H5>
 <H6>N/A</H6>
  
 <br>
   
-<H3><p style="color:#e3da34";>3. String's Founder:</p><H3>
-<H5><p style="color:#e3da34";>(String level:EASY to find)</p></H5>
+<H3>3. String's Founder:<H3>
+<H5>(String level:EASY to find)</H5>
 <H6>N/A</H6>
 
 <hr>
