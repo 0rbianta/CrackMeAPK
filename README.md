@@ -5,7 +5,7 @@
 <hr>
 <H2>How do you know you found something?</H2>
 <H4>The things that are hidden in it already clearly indicate that they are hidden, and the things that are hidden look like passwords. They consist of mixed characters.</H4>
-<H5>Example: Y!n3nx^x98NX374xd|93</H5>
+<H5>Example: HiddenY!n3nx^x98NX374xd|93</H5>
 <hr>
 <br>
 
