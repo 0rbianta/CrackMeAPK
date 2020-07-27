@@ -31,3 +31,6 @@
 <H3><p style="color:#e3da34";>3. String's Founder:</p><H3>
 <H5><p style="color:#e3da34";>(String level:EASY to find)</p><H5>
 <H6>N/A</H6>
+
+<hr>
+<H5>Okay. It's not open source, I'm sorry, but I found it right to publish such an app on GitHub.</H5>
